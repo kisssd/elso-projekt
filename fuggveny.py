@@ -6,5 +6,5 @@ def fuggveny2(uzenet):
 
 def fuggveny3(szam1, szam2):
     eredmeny = szam1 + szam2
-    print("Ez a harmadik függvény, az eredmény ez: " + str(eredmeny))
+    print("Ez a harmadik függvény, az eredmény  ez: " + str(eredmeny))
     
